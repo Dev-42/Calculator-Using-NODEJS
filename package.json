@@ -1,0 +1,23 @@
+{
+  "name": "calculator-using-nodejs",
+  "version": "1.0.0",
+  "description": "This Project is made using NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-42/Calculator-Using-NODEJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev-42/Calculator-Using-NODEJS/issues"
+  },
+  "homepage": "https://github.com/Dev-42/Calculator-Using-NODEJS#readme",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
